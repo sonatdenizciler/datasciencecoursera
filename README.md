@@ -11,7 +11,8 @@ Source website:
    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
  Extracted directory structure:
- home
+ 
+ [home]
  
  |-- UCI HAR Dataset -> files used: features.txt, activity_lables.txt
  
