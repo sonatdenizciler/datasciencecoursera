@@ -2,9 +2,9 @@
 
 ## Version 1.0
 
-### Author: Sonat Denizciler
-### Email: sonat@rocketmail.com
-
+Author: Sonat Denizciler
+Email: sonat@rocketmail.com
+================================================================================================================================
 The program reorganizes the data from the Human Activity Recognition Using Smartphones Dataset Version 1.0 according to tidy data principles. The program does no take any arguments. The program assumes that the data is downloaded from the source website and is extracted.
  
 Source website: 
